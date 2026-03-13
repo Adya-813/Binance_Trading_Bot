@@ -1,0 +1,8 @@
+2026-03-13 21:01:03,009 - INFO - Order request: BTCUSDT BUY MARKET
+2026-03-13 21:01:04,654 - INFO - Order Response: {orderId: 12790413554, status: NEW}
+2026-03-13 21:03:01,131 - INFO - Order request: BTCUSDT BUY MARKET
+2026-03-13 21:03:02,410 - INFO - Order Response: {orderId: 12790442471, status: NEW}
+2026-03-13 21:04:49,282 - INFO - Order request: BTCUSDT BUY MARKET
+2026-03-13 21:04:50,610 - INFO - Order Response: {orderId: 12790469336, status: NEW}
+2026-03-13 21:14:54,878 - INFO - Order request: BTCUSDT BUY MARKET
+2026-03-13 21:14:56,644 - INFO - Order Response: {orderId: 12790616709, status: NEW}
