@@ -39,3 +39,9 @@ python cli.py --symbol BTCUSDT --side BUY --type STOP --quantity 0.01 --price 48
 Logs will be stored in:
 
 logs/trading_bot.log
+
+Assumptions:
+->Users have a Binance Futures Testnet account.
+->Valid API keys are generated and configured in the client file.
+->Testnet wallet has sufficient funds for placing orders.
+->The bot interacts only with the Binance Futures Testnet environment
